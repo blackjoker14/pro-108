@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Roboto+Slab:wght@300;400&display=swap');
+
+body{
+    text-align: center;
+    background-color: #ebebeb;
+    
+}
+.copy_right_footer{
+    text-shadow: 0px 2px 5px grey;
+    background-color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: 16px;
+
+}
+
+#heading{
+
+    background-color: rgb(67, 67, 67);
+    color: white;
+    font-family: 'Roboto Slab', serif;
+}
+
+
+
+
+/*font-family: 'Roboto Slab', serif;
+  font-family: 'Poppins', sans-serif;
+*/
